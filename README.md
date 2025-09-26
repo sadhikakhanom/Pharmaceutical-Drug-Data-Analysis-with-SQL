@@ -75,3 +75,7 @@ Explore time trends in side effects if more data is available
 Implement Python or R for deeper statistical analysis
 
 Visualize severity distributions in dashboards or charts
+
+**Author**
+
+Sadhika Khanom – BSc Biochemistry Graduate | Structural Biology & Data Analysis Enthusiast
