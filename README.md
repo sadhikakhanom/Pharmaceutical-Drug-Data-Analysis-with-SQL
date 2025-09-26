@@ -23,11 +23,11 @@ This project uses the Drug Labels & Side Effects Dataset, which contains over 1,
 | side_effect_severity | Severity label of each reported side effect (e.g., mild, moderate, severe). |
 
 **Project Objectives**
-	•	Practice SQL fundamentals: filtering, grouping, aggregation, conditional logic.
-	•	Explore drug safety patterns and severity distributions.
-	•	Compare manufacturers and administration routes to identify risk patterns.
-	•	Develop insights like severity-weighted scores and most common side effects.
-	•	Showcase structured thinking and SQL proficiency in a portfolio-ready project.
+	Practice SQL fundamentals: filtering, grouping, aggregation, conditional logic.
+	Explore drug safety patterns and severity distributions.
+	Compare manufacturers and administration routes to identify risk patterns.
+	Develop insights like severity-weighted scores and most common side effects.
+	Showcase structured thinking and SQL proficiency in a portfolio-ready project.
 
 **SQL Analysis Plan**
 
