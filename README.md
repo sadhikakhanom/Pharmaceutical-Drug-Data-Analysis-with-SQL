@@ -17,7 +17,7 @@ This project uses the Drug Labels & Side Effects Dataset, which contains over 1,
 | --- | --- |
 | drug_name | Name of the pharmaceutical drug. |
 | manufacturer | Company that produces the drug. |
-| dosage_form | Form and amount of the drug (e.g., tablet, injection, mg dosage). |
+| dosage_form | amount of the drug (mg dosage). |
 | administration_route | Route of administration for the drug (e.g., oral, intravenous, topical). |
 | side_effects | Reported side effects, listed as comma-separated values per drug entry. |
 | side_effect_severity | Severity label of each reported side effect (e.g., mild, moderate, severe). |
