@@ -24,7 +24,7 @@ This project uses the Drug Labels & Side Effects Dataset, which contains over 1,
 
 **Project Objectives**
 
-Practice SQL fundamentals: filtering, grouping, aggregation, conditional logic.
+Practice SQL fundamentals: SELECT, WHERE, GROUP BY, ORDER BY,AGGREGATE FUNCTIONS, HAVING, ALIASES, LIMIT, JOINS, CASE WHEN, UNION
 	
 Explore drug safety patterns and severity distributions.
 	
