@@ -9,7 +9,7 @@ The goal of this project is to analyze drug safety profiles, identify patterns i
 
 Name: Drug Labels & Side Effects Dataset | 1400+ Records
 
-Source: [Kaggle Link](https://www.kaggle.com/datasets/pratyushpuri/drug-labels-and-side-effects-dataset)
+Source: [Kaggle Link](https://www.kaggle.com/datasets/pratyushpuri/drug-labels-and-side-effects-dataset-1400-records)
 
 This project uses the Drug Labels & Side Effects Dataset, which contains over 1,400 records of pharmaceutical drug information. The dataset was sourced from Kaggle and provides structured details on medications, their manufacturers, dosage forms and amounts, as well as associated side effects. Side effects are recorded as comma-separated values, making it possible to explore relationships between drugs and their reported adverse reactions.
 
