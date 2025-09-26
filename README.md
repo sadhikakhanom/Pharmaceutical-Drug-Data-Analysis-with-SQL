@@ -23,6 +23,7 @@ This project uses the Drug Labels & Side Effects Dataset, which contains over 1,
 | side_effect_severity | Severity label of each reported side effect (e.g., mild, moderate, severe). |
 
 **Project Objectives**
+
 Practice SQL fundamentals: filtering, grouping, aggregation, conditional logic.
 	
 Explore drug safety patterns and severity distributions.
@@ -36,6 +37,7 @@ Showcase structured thinking and SQL proficiency in a portfolio-ready project.
 **SQL Analysis Plan**
 
 🟢 Core Beginner Queries
+
 Count drugs per manufacturer
 
 Most common administration routes
@@ -43,6 +45,7 @@ Most common administration routes
 Count side effects by severity
 
 🟡 Intermediate Analysis
+
 Manufacturers with the highest percentage of severe side effects
 
 Severity distribution by administration route
@@ -50,6 +53,7 @@ Severity distribution by administration route
 Drugs with the largest number of side effects
 
 🔴 Advanced Insights
+
 Rank drugs by severity-weighted risk score (mild=1, moderate=2, severe=3)
 
 Rank manufacturers by average severity score
@@ -57,6 +61,7 @@ Rank manufacturers by average severity score
 Top 10 most frequently reported side effects
 
 **Tools & Skills Used**
+
 SQL: SQLite 
 
 GitHub: Version control and portfolio hosting
@@ -64,6 +69,7 @@ GitHub: Version control and portfolio hosting
 Data Analysis Concepts: Aggregation, grouping, filtering, conditional logic
 
 **Future Work**
+
 Explore time trends in side effects if more data is available
 
 Implement Python or R for deeper statistical analysis
