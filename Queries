@@ -1,1 +1,87 @@
+-- rank by number of drugs produced per manufacturer
+SELECT manufacturer, COUNT (drug_name) AS total_drugs,
+row_number () OVER (ORDER BY COUNT (drug_name) DESC) AS rank
+FROM pharmaceutical_drugs
+GROUP BY manufacturer; 
 
+-- manufacturers with the most approved drugs in the last 5 years
+SELECT manufacturer, approval_status, COUNT (drug_name) AS approved_drugs
+FROM pharmaceutical_drugs
+WHERE approval_status = 'Approved' AND approval_year BETWEEN '2019' AND '2024'
+GROUP BY manufacturer
+ORDER BY approved_drugs DESC;
+
+-- manufacturers with the most rejected drugs in the last 5 years
+SELECT manufacturer, approval_status, COUNT (drug_name) AS approved_drugs
+FROM pharmaceutical_drugs
+WHERE approval_status = 'Rejected' AND approval_year BETWEEN '2019' AND '2024'
+GROUP BY manufacturer
+ORDER BY approved_drugs DESC;
+
+-- manufacturer with greatest approval rate (%) of all time 
+SELECT manufacturer,
+ROUND (100.0 * COUNT (CASE WHEN approval_status = 'Approved' THEN 'YES' END)/ COUNT (*), 2) AS total_approved,
+ROUND (100.0 * COUNT (CASE WHEN approval_status = 'Rejected' THEN 'NO' END)/ COUNT(*), 2) AS total_rejected,
+ROUND (100.0 * COUNT (CASE WHEN approval_status = 'Pending' THEN 'WAITING' END)/ COUNT(*), 2) AS total_pending
+FROM pharmaceutical_drugs
+GROUP BY manufacturer
+ORDER BY total_approved DESC;
+
+-- manufacturer with the most approved severe side effect drugs
+SELECT manufacturer, approval_status, COUNT (drug_name) AS approved_drugs
+FROM pharmaceutical_drugs
+WHERE approval_status = 'Approved' AND side_effect_severity = 'Severe'
+GROUP BY manufacturer
+ORDER BY approved_drugs DESC;
+
+-- how many drugs have been approved with severe side effects in comparison to those with mild/moderate side effects
+SELECT COUNT (*) drug_name, approval_status, side_effect_severity
+FROM pharmaceutical_drugs
+WHERE approval_status = 'Approved' AND side_effect_severity = 'Severe'
+UNION
+SELECT COUNT (*) drug_name, approval_status, side_effect_severity
+FROM pharmaceutical_drugs
+WHERE approval_status = 'Approved' AND side_effect_severity = 'Moderate'
+UNION
+SELECT COUNT (*) drug_name, approval_status, side_effect_severity
+FROM pharmaceutical_drugs
+WHERE approval_status = 'Approved' AND side_effect_severity = 'Mild';
+
+-- most approved drug class
+SELECT COUNT (drug_class) AS total_drug_class, drug_class, approval_status
+FROM pharmaceutical_drugs
+WHERE approval_status = 'Approved'
+GROUP BY drug_class
+ORDER BY COUNT (drug_class) DESC;
+
+-- which drug class is most associated with severe side effects
+SELECT COUNT (drug_class) AS total_drug_class, drug_class, side_effect_severity
+FROM pharmaceutical_drugs
+WHERE side_effect_severity = 'Severe'
+GROUP BY drug_class
+ORDER BY COUNT (drug_class) DESC;
+
+-- who sells the most approved antidepressants
+SELECT manufacturer, drug_class, approval_status, COUNT (drug_name) AS total_drugs
+FROM pharmaceutical_drugs
+WHERE drug_class = 'Antidepressant' AND approval_status = 'Approved'
+GROUP BY manufacturer
+ORDER BY COUNT (drug_name) DESC;
+
+-- most common drug_class 
+SELECT COUNT (drug_class) AS total_drug_class, drug_class
+FROM pharmaceutical_drugs
+GROUP BY drug_class
+ORDER BY COUNT (drug_class) DESC;
+
+-- manufacturer with highest average drug price_usd
+SELECT manufacturer, AVG (price_usd)
+FROM pharmaceutical_drugs
+GROUP BY manufacturer
+ORDER BY AVG (price_usd) DESC;
+
+-- top 5 most expensive drugs 
+SELECT manufacturer, drug_name, price_usd
+FROM pharmaceutical_drugs
+ORDER BY price_usd DESC
+LIMIT 5; 
