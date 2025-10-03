@@ -66,6 +66,17 @@
 
 ---
 
+## 7. Most approved drug class
+
+## 8. Drug class associated with the most severe side effects
+
+## 9. Who sells the most antidepressants
+
+## 10. Most common drug class in dataset
+
+## 11. Which manufacturer has the highest average drug price
+
+## 12. Top 5 most expensive drugs
 
 
 	
