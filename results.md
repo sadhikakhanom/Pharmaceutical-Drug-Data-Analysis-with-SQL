@@ -18,19 +18,19 @@
 
 ## 2. Most Approved Drugs (Last 5 Years)
 
-|     Manufacturer     | Approval status | Approved drugs |
-|----------------------|-----------------|----------------|
-| Moderna Therapeutics | Approved        |  11            |
-| Bayer AG             | Approved        |  11            | 
-| Merck & Co.          | Approved        |  10            |
-| Johnson & Johnson    | Approved        |  8             |
-| Pfizer Inc.          | Approved        |  7             |
-| Novartis AG          | Approved        |  7             |
-| Sanofi               | Approved        |  6             |
-| GlaxoSmithKline      | Approved        |  5             |
-| Roche Holding AG     | Approved        |  3             |
-| AstraZeneca          | Approved        |  3             |
------------------------------------------------------------
+|     Manufacturer     | Approval status | No. of Approved drugs |
+|----------------------|-----------------|-----------------------|
+| Moderna Therapeutics | Approved        |  11                   |
+| Bayer AG             | Approved        |  11                   | 
+| Merck & Co.          | Approved        |  10                   |
+| Johnson & Johnson    | Approved        |   8                   |
+| Pfizer Inc.          | Approved        |   7                   |
+| Novartis AG          | Approved        |   7                   |
+| Sanofi               | Approved        |   6                   |
+| GlaxoSmithKline       | Approved        |   5                    |
+| Roche Holding AG      | Approved        |   3                    |
+| AstraZeneca           | Approved        |   3                    || |
+--------------------------------------------------------------------
 
 ## 3. Most Rejected Drugs (Last 5 Years)
 | Manufacturer | Rejected Drugs | Rank |
