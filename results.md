@@ -32,7 +32,7 @@
 | AstraZeneca          | Approved        |  3             |
 -----------------------------------------------------------
 
-## 2. Most Rejected Drugs (Last 5 Years)
+## 3. Most Rejected Drugs (Last 5 Years)
 | Manufacturer | Rejected Drugs | Rank |
 |--------------|----------------|------|
 |              |                |      |
@@ -41,7 +41,7 @@
 
 ---
 
-## 3. Approval Success Rate
+## 4. Approval Success Rate
 | Manufacturer | Approved | Rejected | Success Rate (%) | Rank |
 |--------------|----------|----------|------------------|------|
 |              |          |          |                  |      |
@@ -49,7 +49,7 @@
 
 ---
 
-## 4. Approved Drugs with Severe Side Effects
+## 5. Approved Drugs with Severe Side Effects
 | Manufacturer | Approved Drugs | Severe Side Effects | % Severe |
 |--------------|----------------|---------------------|----------|
 |              |                |                     |          |
@@ -57,7 +57,7 @@
 
 ---
 
-## 5. Side Effects Comparison
+## 6. Side Effects Comparison
 | Severity   | Number of Drugs |
 |------------|-----------------|
 | Mild       |                 |
@@ -66,26 +66,6 @@
 
 ---
 
-## 6. Average Drug Price (Per Manufacturer)
-| Manufacturer | Average Price | Rank |
-|--------------|---------------|------|
-|              |               |      |
-|              |               |      |
-
----
-
-## 7. Overall Average Drug Price
-| Average Price (All Drugs) |
-|---------------------------|
-|                           |
-
----
-
-## 8. Rank Manufacturers by Number of Drugs
-| Manufacturer | Total Drugs | Rank |
-|--------------|-------------|------|
-|              |             |      |
-|              |             |      |
 
 
 	
