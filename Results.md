@@ -181,5 +181,15 @@
 | Roche Holding AG    | Daxozole99     | 498.57     |
 -----------------------------------------------------
 
+## 13. Top 5 cheapest drugs
+
+| Manufacturer        | Drug Name      | Price ($) |
+|---------------------|----------------|-----------|
+| Novartis AG         | Amoxxetine23   | 1.21      |
+| Bayer AG            | Amoxzole29     | 1.37      |
+| Merck & Co.         | Daxoxetine96   | 2.62      |
+| Johnson & Johnson   | Daxozepam21    | 2.77      |
+| Bayer AG            | Serozepam55    | 2.96      |
+----------------------------------------------------
 	
 
