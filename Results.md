@@ -18,7 +18,7 @@
 
 ## 2. Most Approved Drugs (Last 5 Years)
 
-|     Manufacturer     | Approval status | No. of Approved drugs |
+| Manufacturer         | Approval status | No. of Approved drugs |
 |----------------------|-----------------|-----------------------|
 | Moderna Therapeutics | Approved        |  11                   |
 | Bayer AG             | Approved        |  11                   | 
@@ -49,14 +49,24 @@
 -----------------------------------------------------------------
 
 ## 4. Approval Success Rate
-| Manufacturer | Approved | Rejected | Success Rate (%) | Rank |
-|--------------|----------|----------|------------------|------|
-|              |          |          |                  |      |
-|              |          |          |                  |      |
 
----
+| Manufacturer         | Approved (%) | Rejected (%) | Pending (%) |
+|----------------------|--------------|--------------|-------------|
+| Moderna Therapeutics | 35.62        | 34.93        | 29.45       |
+| Johnson & Johnson    | 35.57        | 33.56        | 30.87       |
+| Merck & Co.          | 33.12        | 34.39        | 32.48       |
+| Sanofi               | 33.11        | 27.03        | 39.86       |
+| AstraZeneca          | 32.58        | 29.55        | 37.88       |
+| GlaxoSmithKline      | 32.14        | 35.71        | 32.14       |
+| Roche Holding AG     | 30.66        | 32.85        | 36.50       |
+| Bayer AG             | 29.93        | 27.21        | 42.86       |
+| Pfizer Inc.          | 29.41        | 41.18        | 29.41       |
+| Novartis AG          | 29.17        | 36.81        | 34.03       |
+--------------------------------------------------------------------
+
 
 ## 5. Approved Drugs with Severe Side Effects
+
 | Manufacturer | Approved Drugs | Severe Side Effects | % Severe |
 |--------------|----------------|---------------------|----------|
 |              |                |                     |          |
