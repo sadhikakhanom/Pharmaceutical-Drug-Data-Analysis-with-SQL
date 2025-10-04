@@ -75,7 +75,7 @@ GROUP BY drug_class
 ORDER BY COUNT (drug_class) DESC;
 
 -- manufacturer with highest average drug price_usd
-SELECT manufacturer, AVG (price_usd)
+SELECT manufacturer, ROUND (AVG (price_usd), 2)
 FROM pharmaceutical_drugs
 GROUP BY manufacturer
 ORDER BY AVG (price_usd) DESC;
