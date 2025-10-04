@@ -18,35 +18,35 @@
 
 ## 2. Most Approved Drugs (Last 5 Years)
 
-| Manufacturer         | Approval status | No. of Approved drugs |
-|----------------------|-----------------|-----------------------|
-| Moderna Therapeutics | Approved        |  11                   |
-| Bayer AG             | Approved        |  11                   | 
-| Merck & Co.          | Approved        |  10                   |
-| Johnson & Johnson    | Approved        |   8                   |
-| Pfizer Inc.          | Approved        |   7                   |
-| Novartis AG          | Approved        |   7                   |
-| Sanofi               | Approved        |   6                   |
-| GlaxoSmithKline      | Approved        |   5                   |
-| Roche Holding AG     | Approved        |   3                   |
-| AstraZeneca          | Approved        |   3                   |
-------------------------------------------------------------------
+| Manufacturer         | Approval status | No. Approved drugs |
+|----------------------|-----------------|--------------------|
+| Moderna Therapeutics | Approved        |  11                |
+| Bayer AG             | Approved        |  11                | 
+| Merck & Co.          | Approved        |  10                |
+| Johnson & Johnson    | Approved        |   8                |
+| Pfizer Inc.          | Approved        |   7                |
+| Novartis AG          | Approved        |   7                |
+| Sanofi               | Approved        |   6                |
+| GlaxoSmithKline      | Approved        |   5                |
+| Roche Holding AG     | Approved        |   3                |
+| AstraZeneca          | Approved        |   3                |
+---------------------------------------------------------------
 
 ## 3. Most Rejected Drugs (Last 5 Years)
 
-| Manufacturer         | Approval Status | No. of Rejected Drugs|
-|----------------------|-----------------|----------------------|
-| Novartis AG          |  Rejected       |   10                 |
-| Roche Holding AG     |  Rejected       |    8                 |                 
-| Johnson & Johnson    |  Rejected       |    8                 |
-| GlaxoSmithKline      |  Rejected       |    8                 |
-| Bayer AG             |  Rejected       |    8                 |
-| AstraZeneca          |  Rejected       |    6                 |
-| Pfizer Inc.          |  Rejected       |    6                 |
-| Moderna Therapeutics |  Rejected       |    6                 |
-| Merck & Co.          |  Rejected       |    6                 |
-| Sanofi               |  Rejected       |    5                 |
------------------------------------------------------------------
+| Manufacturer         | Approval Status | No. Rejected Drugs|
+|----------------------|-----------------|-------------------|
+| Novartis AG          |  Rejected       |   10              |
+| Roche Holding AG     |  Rejected       |    8              |                 
+| Johnson & Johnson    |  Rejected       |    8              |
+| GlaxoSmithKline      |  Rejected       |    8              |
+| Bayer AG             |  Rejected       |    8              |
+| AstraZeneca          |  Rejected       |    6              |
+| Pfizer Inc.          |  Rejected       |    6              |
+| Moderna Therapeutics |  Rejected       |    6              |
+| Merck & Co.          |  Rejected       |    6              |
+| Sanofi               |  Rejected       |    5              |
+--------------------------------------------------------------
 
 ## 4. Approval Success Rate
 
@@ -65,14 +65,21 @@
 --------------------------------------------------------------------
 
 
-## 5. Approved Drugs with Severe Side Effects
+## 5. Manufacturer with the most approved drugs with severe side effects
 
-| Manufacturer | Approved Drugs | Severe Side Effects | % Severe |
-|--------------|----------------|---------------------|----------|
-|              |                |                     |          |
-|              |                |                     |          |
-
----
+| Manufacturer        | Approval Status   | No. Approved Drugs |
+|---------------------|-------------------|--------------------|
+| Merck & Co.         | Approved          | 20                 |
+| Sanofi              | Approved          | 19                 |
+| Johnson & Johnson   | Approved          | 17                 |
+| Moderna Therapeutics| Approved          | 15                 |
+| Roche Holding AG    | Approved          | 13                 |
+| Novartis AG         | Approved          | 13                 |
+| GlaxoSmithKline     | Approved          | 12                 |
+| AstraZeneca         | Approved          | 12                 |
+| Pfizer Inc.         | Approved          | 10                 |
+| Bayer AG            | Approved          | 9                  |
+----------------------------------------------------------------
 
 ## 6. Side Effects Comparison
 | Severity   | Number of Drugs |
