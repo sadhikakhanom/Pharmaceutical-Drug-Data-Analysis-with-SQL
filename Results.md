@@ -83,28 +83,28 @@
 
 ## 6. Number of Approved Drugs by Side Effect Severity
 
-| Severity  |  Status   | Approved Drugs |
-|-----------|-----------|----------------|
-| Severe    | Approved  | 140            |
-| Moderate  | Approved  | 147            |
-| Mild      | Approved  | 175            |
-------------------------------------------
+| Severity  |  Status   | No. Approved Drugs |
+|-----------|-----------|--------------------|
+| Severe    | Approved  | 140                |
+| Moderate  | Approved  | 147                |
+| Mild      | Approved  | 175                |
+----------------------------------------------
 
 ## 7. Approved Drugs by Class
 
-| Drug Class        | Status   | Approved Drugs |
-|-------------------|----------|----------------|
-| Anti-inflammatory | Approved | 61             |
-| Vaccine           | Approved | 51             |
-| Antidepressant    | Approved | 47             |
-| Analgesic         | Approved | 47             |
-| Antipsychotic     | Approved | 46             |
-| Antibiotic        | Approved | 44             |
-| Antiviral         | Approved | 42             |
-| Antihistamine     | Approved | 42             |
-| Antifungal        | Approved | 42             |
-| Antipyretic       | Approved | 40             |
--------------------------------------------------
+| Drug Class        | Status   | No. Approved Drugs|
+|-------------------|----------|-------------------|
+| Anti-inflammatory | Approved | 61                |
+| Vaccine           | Approved | 51                |
+| Antidepressant    | Approved | 47                |
+| Analgesic         | Approved | 47                |
+| Antipsychotic     | Approved | 46                |
+| Antibiotic        | Approved | 44                |
+| Antiviral         | Approved | 42                |
+| Antihistamine     | Approved | 42                |
+| Antifungal        | Approved | 42                |
+| Antipyretic       | Approved | 40                |
+----------------------------------------------------
 
 ## 8. Drug class associated with the most severe side effects
 
@@ -172,14 +172,14 @@
 
 ## 12. Top 5 most expensive drugs
 
-| Manufacturer        | Drug Name      | Price  |
-|---------------------|----------------|--------|
-| Novartis AG         | Zyloparin35    | 499.06 |
-| Moderna Therapeutics| Rivaparin94    | 498.98 |
-| Johnson & Johnson   | Viraxetine59   | 498.77 |
-| Johnson & Johnson   | Daxoxetine71   | 498.68 |
-| Roche Holding AG    | Daxozole99     | 498.57 |
--------------------------------------------------
+| Manufacturer        | Drug Name      | Price ($)  |
+|---------------------|----------------|------------|
+| Novartis AG         | Zyloparin35    | 499.06     |
+| Moderna Therapeutics| Rivaparin94    | 498.98     |
+| Johnson & Johnson   | Viraxetine59   | 498.77     |
+| Johnson & Johnson   | Daxoxetine71   | 498.68     |
+| Roche Holding AG    | Daxozole99     | 498.57     |
+-----------------------------------------------------
 
 	
 
