@@ -82,13 +82,13 @@
 ----------------------------------------------------------------
 
 ## 6. Side Effects Comparison
+
 | Severity   | Number of Drugs |
 |------------|-----------------|
-| Mild       |                 |
-| Moderate   |                 |
-| Severe     |                 |
-
----
+| Mild       |     175         |
+| Moderate   |     147         |
+| Severe     |     140         |
+--------------------------------
 
 ## 7. Most approved drug class
 ---
