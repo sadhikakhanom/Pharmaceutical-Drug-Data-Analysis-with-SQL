@@ -27,19 +27,26 @@
 | Pfizer Inc.          | Approved        |   7                   |
 | Novartis AG          | Approved        |   7                   |
 | Sanofi               | Approved        |   6                   |
-| GlaxoSmithKline       | Approved        |   5                    |
-| Roche Holding AG      | Approved        |   3                    |
-| AstraZeneca           | Approved        |   3                    || |
---------------------------------------------------------------------
+| GlaxoSmithKline      | Approved        |   5                   |
+| Roche Holding AG     | Approved        |   3                   |
+| AstraZeneca          | Approved        |   3                   |
+------------------------------------------------------------------
 
 ## 3. Most Rejected Drugs (Last 5 Years)
-| Manufacturer | Rejected Drugs | Rank |
-|--------------|----------------|------|
-|              |                |      |
-|              |                |      |
-|              |                |      |
 
----
+| Manufacturer         | Approval Status | No. of Rejected Drugs|
+|----------------------|-----------------|----------------------|
+| Novartis AG          |  Rejected       |   10                 |
+| Roche Holding AG     |  Rejected       |    8                 |                 
+| Johnson & Johnson    |  Rejected       |    8                 |
+| GlaxoSmithKline      |  Rejected       |    8                 |
+| Bayer AG             |  Rejected       |    8                 |
+| AstraZeneca          |  Rejected       |    6                 |
+| Pfizer Inc.          |  Rejected       |    6                 |
+| Moderna Therapeutics |  Rejected       |    6                 |
+| Merck & Co.          |  Rejected       |    6                 |
+| Sanofi               |  Rejected       |    5                 |
+-----------------------------------------------------------------
 
 ## 4. Approval Success Rate
 | Manufacturer | Approved | Rejected | Success Rate (%) | Rank |
