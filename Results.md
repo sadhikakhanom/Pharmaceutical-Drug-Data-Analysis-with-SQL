@@ -15,6 +15,8 @@
 | Pfizer Inc.          | 136         | 9    |
 | AstraZeneca          | 132         | 10   |
 ---------------------------------------------
+Insight:
+
 
 ## 2. Most Approved Drugs (Last 5 Years)
 
