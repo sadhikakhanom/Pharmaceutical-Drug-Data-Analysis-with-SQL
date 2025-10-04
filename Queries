@@ -12,11 +12,11 @@ GROUP BY manufacturer
 ORDER BY approved_drugs DESC;
 
 -- manufacturers with the most rejected drugs in the last 5 years
-SELECT manufacturer, approval_status, COUNT (drug_name) AS approved_drugs
+SELECT manufacturer, approval_status, COUNT (drug_name) AS rejected_drugs
 FROM pharmaceutical_drugs
 WHERE approval_status = 'Rejected' AND approval_year BETWEEN '2019' AND '2024'
 GROUP BY manufacturer
-ORDER BY approved_drugs DESC;
+ORDER BY rejected_drugs DESC;
 
 -- manufacturer with greatest approval rate (%) of all time 
 SELECT manufacturer,
