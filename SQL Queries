@@ -85,3 +85,9 @@ SELECT manufacturer, drug_name, price_usd
 FROM pharmaceutical_drugs
 ORDER BY price_usd DESC
 LIMIT 5; 
+
+-- top 5 cheapest drugs 
+SELECT manufacturer, drug_name, price_usd
+FROM pharmaceutical_drugs
+ORDER BY price_usd ASC
+LIMIT 5;
