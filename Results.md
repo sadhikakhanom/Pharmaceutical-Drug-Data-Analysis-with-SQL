@@ -14,8 +14,11 @@
 | Roche Holding AG     | 137         | 8    |
 | Pfizer Inc.          | 136         | 9    |
 | AstraZeneca          | 132         | 10   |
+
+INSIGHTS: Merck & Co. leads with the highest total number of drugs indicating a faster drug production pipline compared to other manufacturers. On the other hand, manufacturers like Pfizer Inc. and AstraZeneca, whom are known to be leading global manufacturers, actually produce the least amount of drugs in the same timeframe in comparison to all other manufacturers, highlighting their emphasis on maximising quality over focusing on the size of their drug portfolio.
+
 ---------------------------------------------
-Insight:
+
 
 
 ## 2. Most Approved Drugs (Last 5 Years)
