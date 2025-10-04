@@ -81,14 +81,14 @@
 | Bayer AG            | Approved          | 9                  |
 ----------------------------------------------------------------
 
-## 6. Side Effects Comparison
+## 6. Number of Approved Drugs by Side Effect Severity
 
-| Severity   | Number of Drugs |
-|------------|-----------------|
-| Mild       |     175         |
-| Moderate   |     147         |
-| Severe     |     140         |
---------------------------------
+| Severity  | Approval Status   | Approved Drugs |
+|-----------|-------------------|----------------|
+| Severe    | Approved          | 140            |
+| Moderate  | Approved          | 147            |
+| Mild      | Approved          | 175            |
+--------------------------------------------------
 
 ## 7. Most approved drug class
 ---
