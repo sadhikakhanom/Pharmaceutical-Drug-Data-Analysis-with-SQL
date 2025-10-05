@@ -94,11 +94,7 @@ Insights: Moderna Therapeutics, followed by Johnson & Johnson as a close second,
 | Pfizer Inc.         | Severe     | 10                 |
 | Bayer AG            | Severe     | 9                  |
 
-Insights: 
-
-
-
-
+Insights: Merck & Co. leads as the manufacturer with the highest number of approved drugs with severe side effects, followed by Sanofi and Johnson & Johnson as a close second. All 3 manufacturers have the largest drug portfolio, and relatively similar approval success rates. Having the highest number of drugs with severe side effects is not necessarily negative, however it is indicative of the common challenges pharmaceutical manufacturers face throughout the drug development pipeline, which is balancing the overall success of a drug in treatment with the side effects that come with utilising them.
 
 -------------------------------------------------------
 
@@ -109,6 +105,9 @@ Insights:
 | Severe    | Approved  | 140                |
 | Moderate  | Approved  | 147                |
 | Mild      | Approved  | 175                |
+
+Insights: Most approved drugs have been associated with mild side effects (175), suggesting that safety profiles still remains as one of the most important factors to look out for in the drug development pipline. However the number of approved drugs with severe side effects is still considerably high (140), highlighting that safety is also a factor that can sometimes be compromised if the drug is capable of treating serious/ life threatening conditions. This also emphasises the importance of risk management once the drugs are in widespread use.
+
 ----------------------------------------------
 
 ## 7. Approved Drugs by Class
