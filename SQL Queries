@@ -28,7 +28,7 @@ GROUP BY manufacturer
 ORDER BY total_approved DESC;
 
 -- manufacturer with the most approved severe side effect drugs
-SELECT manufacturer, approval_status, COUNT (drug_name) AS approved_drugs
+SELECT manufacturer, side_effect_severity, COUNT (drug_name) AS approved_drugs
 FROM pharmaceutical_drugs
 WHERE approval_status = 'Approved' AND side_effect_severity = 'Severe'
 GROUP BY manufacturer
