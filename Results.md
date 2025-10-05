@@ -166,23 +166,7 @@ Insights: The distribution of approved antidepressants is relatively even across
 
 ------------------------------------------------------------------------
 
-## 10. Most common drug class
-
-| Drug Class        | Total Drugs |
-|-------------------|-------------|
-| Anti-inflammatory | 158         |
-| Antidepressant    | 156         |
-| Antipsychotic     | 147         |
-| Vaccine           | 144         |
-| Antifungal        | 144         |
-| Antihistamine     | 143         |
-| Antibiotic        | 143         |
-| Antiviral         | 141         |
-| Antipyretic       | 134         |
-| Analgesic         | 126         |
------------------------------------
-
-## 11. Average drug price per manufacturer
+## 10. Average drug price per manufacturer
 
 | Manufacturer        | Average Price ($) |
 |---------------------|-------------------|
@@ -196,9 +180,15 @@ Insights: The distribution of approved antidepressants is relatively even across
 | GlaxoSmithKline     | 245.77            | 
 | Bayer AG            | 243.12            |
 | Novartis AG         | 236.32            |
+
+Insights: 
+
+
+
+
 -------------------------------------------
 
-## 12. Top 5 most expensive drugs
+## 11. Top 5 most expensive drugs
 
 | Manufacturer        | Drug Name      | Price ($)  |
 |---------------------|----------------|------------|
@@ -207,9 +197,14 @@ Insights: The distribution of approved antidepressants is relatively even across
 | Johnson & Johnson   | Viraxetine59   | 498.77     |
 | Johnson & Johnson   | Daxoxetine71   | 498.68     |
 | Roche Holding AG    | Daxozole99     | 498.57     |
+
+Insights: Although the average overall drug price was recorded as being the lowest, Novartis's Zyloparin35 is shown to be the most expensive drug in the dataset. 
+
+
+
 -----------------------------------------------------
 
-## 13. Top 5 cheapest drugs
+## 12. Top 5 cheapest drugs
 
 | Manufacturer        | Drug Name      | Price ($) |
 |---------------------|----------------|-----------|
@@ -218,6 +213,11 @@ Insights: The distribution of approved antidepressants is relatively even across
 | Merck & Co.         | Daxoxetine96   | 2.62      |
 | Johnson & Johnson   | Daxozepam21    | 2.77      |
 | Bayer AG            | Serozepam55    | 2.96      |
+
+Insights:
+
+
+
 ----------------------------------------------------
 	
 
