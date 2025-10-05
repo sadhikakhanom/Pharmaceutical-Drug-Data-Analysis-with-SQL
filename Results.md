@@ -35,6 +35,9 @@ Insights: Merck & Co. leads with the highest total number of drugs indicating a 
 | GlaxoSmithKline      | Approved  |   5                |
 | Roche Holding AG     | Approved  |   3                |
 | AstraZeneca          | Approved  |   3                |
+
+Insights: Moderna Therapeutics and Bayer AG have the highest number of approved drugs in the last 5 years followed by Merck & Co. All 3 manufacturers also produce the top 5 total number of drugs, as displayed in the previous table, indicating a relatively more efficient drug development strategy in comparison to other manufacturers, particularly Roche Holding AG and AstraZeneca. Both of these manufacturers have the smallest number of approved drugs in the last 5 years, suggesting challenges in advancing through clinical trials.  
+
 ---------------------------------------------------------
 
 ## 3. Most Rejected Drugs (Last 5 Years)
@@ -51,6 +54,9 @@ Insights: Merck & Co. leads with the highest total number of drugs indicating a 
 | Moderna Therapeutics |  Rejected |    6              |
 | Merck & Co.          |  Rejected |    6              |
 | Sanofi               |  Rejected |    5              |
+
+Insights: Novartis AG leads with the highest number of rejected drugs in the last 5 years. The general distribution of rejected drugs across all manufacturers seems to be quite even, indicating that there are similar regulatory approval challenges across all manufacturers. This could also mean that in the last 5 years, research strategies across all manufacturers have directed focus towards innovation over risk management. 
+
 --------------------------------------------------------
 
 ## 4. Approval Success Rate
@@ -67,23 +73,33 @@ Insights: Merck & Co. leads with the highest total number of drugs indicating a 
 | Bayer AG             | 29.93        | 27.21        | 42.86       |
 | Pfizer Inc.          | 29.41        | 41.18        | 29.41       |
 | Novartis AG          | 29.17        | 36.81        | 34.03       |
+
+Insights: Moderna Therapeutics, followed by Johnson & Johnson as a close second, portrayed the highest approval success rate in comparison to all other manufacturers, highlighting their workflow efficiency and their ability to strike a strong balance between safety regulations and risk management. Comparatively, manufacturers like Bayer AG and Pfizer Inc. have the highest pending and rejection rates respectively, potentially implicating their greater focus on bolder drug development strategies or struggles with meeting regulatory standards.
+
 --------------------------------------------------------------------
 
 
 ## 5. Manufacturer with the most approved drugs with severe side effects
 
-| Manufacturer        | Status   | No. Approved Drugs |
-|---------------------|----------|--------------------|
-| Merck & Co.         | Approved | 20                 |
-| Sanofi              | Approved | 19                 |
-| Johnson & Johnson   | Approved | 17                 |
-| Moderna Therapeutics| Approved | 15                 |
-| Roche Holding AG    | Approved | 13                 |
-| Novartis AG         | Approved | 13                 |
-| GlaxoSmithKline     | Approved | 12                 |
-| AstraZeneca         | Approved | 12                 |
-| Pfizer Inc.         | Approved | 10                 |
-| Bayer AG            | Approved | 9                  |
+| Manufacturer        | Severity   | No. Approved Drugs |
+|---------------------|------------|--------------------|
+| Merck & Co.         | Severe     | 20                 |
+| Sanofi              | Severe     | 19                 |
+| Johnson & Johnson   | Severe     | 17                 |
+| Moderna Therapeutics| Severe     | 15                 |
+| Roche Holding AG    | Severe     | 13                 |
+| Novartis AG         | Severe     | 13                 |
+| GlaxoSmithKline     | Severe     | 12                 |
+| AstraZeneca         | Severe     | 12                 |
+| Pfizer Inc.         | Severe     | 10                 |
+| Bayer AG            | Severe     | 9                  |
+
+Insights: 
+
+
+
+
+
 -------------------------------------------------------
 
 ## 6. Number of Approved Drugs by Side Effect Severity
