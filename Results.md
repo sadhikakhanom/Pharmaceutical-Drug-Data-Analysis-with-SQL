@@ -20,7 +20,6 @@ Insights: Merck & Co. leads with the highest total number of drugs indicating a 
 ---------------------------------------------
 
 
-
 ## 2. Most Approved Drugs (Last 5 Years)
 
 | Manufacturer         | Status    | No. Approved drugs |
@@ -124,6 +123,9 @@ Insights: Most approved drugs have been associated with mild side effects (175),
 | Antihistamine     | Approved | 42                |
 | Antifungal        | Approved | 42                |
 | Antipyretic       | Approved | 40                |
+
+Insights: Anti-inflammatory drugs lead with highest number of approved drugs, indicating the clinical demand for drugs which target inflammatory illnesses. This is followed by vaccines, which reflects the recent global focus on herd immunity and controlling the spread of viral infections.
+
 ----------------------------------------------------
 
 ## 8. Drug class associated with the most severe side effects
@@ -140,6 +142,9 @@ Insights: Most approved drugs have been associated with mild side effects (175),
 | Vaccine           | Severe   | 39                 |
 | Antiviral         | Severe   | 37                 |
 | Antibiotic        | Severe   | 35                 |
+
+Insights: The antidepressant drug class is shown to have the highest number of approved drugs with severe side effects. This could be as a result of the drugs having a systemic impact of the human central nervous system, meaning it carries greater risks due to its complex mechanism of action.
+
 -----------------------------------------------------
 
 ## 9. Who sells the most antidepressants
@@ -156,6 +161,9 @@ Insights: Most approved drugs have been associated with mild side effects (175),
 | Bayer AG            | Antidepressant | Approved | 4                  |
 | Sanofi              | Antidepressant | Approved | 3                  |
 | Merck & Co.         | Antidepressant | Approved | 3                  |  
+
+Insights: The distribution of approved antidepressants is relatively even across all manufacturers, with Moderna Therapeutics and Johnson & Johnson leading with the highest amount. This positions them as strong competitors in the mental health treatment market. 
+
 ------------------------------------------------------------------------
 
 ## 10. Most common drug class
